@@ -1,5 +1,7 @@
 # Code Refactor Starter Code
 
+# horiseon (marketing agency)
+
 ## Description:
 
 I refactored an existing sit of marketing agency to make it more accessible.
@@ -13,8 +15,8 @@ I refactored an existing sit of marketing agency to make it more accessible.
 - [Contribution](#Contribution)
 
 ## Built with
-*HTML
-*Css
+* HTML
+* Css
 
 ## website
 https://github.com/Osmana1993/urban-octo-telegram
