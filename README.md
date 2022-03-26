@@ -1,10 +1,11 @@
- ![screenshot](C:\Users\osman\Pictures\Screenshots.jpg?raw=true "Optional Title")
+![Screenshot (4)](https://user-images.githubusercontent.com/100746995/160251323-00722342-15ad-4d48-a98a-6ba6f4e7448d.png)
+
 
 # horiseon (marketing agency)
 
 ## Description:
 
-I refactored an existing sit of marketing agency to make it more accessible.
+This is a website of Horiseon Social Solution Services, Inc., a technical consulting company that specializes in Internet marketing strategies and reputation management.
 
 
 ## Table of Contents 
@@ -19,7 +20,7 @@ I refactored an existing sit of marketing agency to make it more accessible.
 * Css
 
 ## website
-https://github.com/Osmana1993/urban-octo-telegram
+https://osmana1993.github.io/horiseon-marketing-agency/
 
 ## Contribution
 Made with ❤️ by [Osman-Ali]
