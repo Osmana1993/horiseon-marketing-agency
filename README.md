@@ -21,6 +21,7 @@ This is a website of Horiseon Social Solution Services, Inc., a technical consul
 
 ## website
 https://osmana1993.github.io/horiseon-marketing-agency/
+ https://osmana1993.github.io/horiseon-marketing-agency/
 
 ## Contribution
 Made with ❤️ by [Osman-Ali]
