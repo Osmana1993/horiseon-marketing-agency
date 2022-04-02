@@ -4,12 +4,12 @@
 This is a website of Horiseon Social Solution Services, Inc., a technical consulting company that specializes in Internet marketing strategies and reputation management.
 
 ## Table Of Content
--[Description](#description)
--[Table Of Content](#table-of-content)
--[Built With](#built-with)
--[Usage](#usage)
--[Website](#website)
--[Contribution](#contribution)
+- [Description](#description)
+- [Table Of Content](#table-of-content)
+- [Built With](#built-with)
+- [Usage](#usage)
+- [Website](#website)
+- [Contribution](#contribution)
 
 ## Built With
 * HTML
